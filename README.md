@@ -3,7 +3,18 @@ Multimodal Music Genre Classification
 
 Multimodal music genre classification which extracts features from audio and lyrics to classify music genres across a diverse array of classes.
 
-Project Organization
+------------
+
+
+
+## Getting Started
+------------
+All the code is inside of the notebooks folder as of now. Each notebook runs independently and saves the weights. Repo will be organized soon.
+The notebooks currently assume you are running in google drive. Simply remove the mount and update the path to the right folder. 
+------------
+------------
+------------
+## Project Organization
 ------------
 
     ├── LICENSE
